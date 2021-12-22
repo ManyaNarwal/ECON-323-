@@ -9,10 +9,13 @@ With this analysis I hope to answer the following research questions –
 4)	Is there any gender discrimination in the Olympics?
 5)	How do the physical attributes of an athlete impact his/her chances of winning a metal?
 
-Dataset Refrences
+Dataset Refrences - 
 
 Tokyo 2020 Olympics Medals. (2021, August 9). Kaggle. https://www.kaggle.com/berkayalan/2021-olympics-medals-in-tokyo
+
 Population by Country - 2020. (2020, September 3). Kaggle. https://www.kaggle.com/tanuprabhu/population-by-country-2020
+
 Olympics_1896_2012. (2017, December 23). Kaggle. https://www.kaggle.com/ostrowski/olympics-1896-2012
+
 Summer-Olympic-medals-1976-to-2008 Analysis. (2021, February 10). Kaggle.https://www.kaggle.com/alaadewan/summerolympicmedals1976to2008-analysis
  
